@@ -1,0 +1,16 @@
+GEM
+  specs:
+    sorbet (0.5.6405)
+      sorbet-static (= 0.5.6405)
+    sorbet-runtime (0.5.6405)
+    sorbet-static (0.5.6405-universal-darwin-19)
+
+PLATFORMS
+  universal-darwin-19
+
+DEPENDENCIES
+  sorbet
+  sorbet-runtime
+
+BUNDLED WITH
+   2.2.17
